@@ -6,7 +6,9 @@ Android-Studio-Guide
 
 
 [Gradle使用手册（一）：为什么要用Gradle？](#gradle1)
+
 [Gradle使用手册（二）：项目结构](#gradle2)
+
 [Gradle使用手册（三）：构建任务](#gradle3)
 
 <a name="gradle1"/>
